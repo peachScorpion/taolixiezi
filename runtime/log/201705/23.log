@@ -1,0 +1,28 @@
+---------------------------------------------------------------
+[ 2017-05-23T15:25:15+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.044002s][吞吐率：22.73req/s] [内存消耗：1,100.34kb] [文件加载：29]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
