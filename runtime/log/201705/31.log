@@ -1,0 +1,468 @@
+---------------------------------------------------------------
+[ 2017-05-31T09:07:02+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.053003s][吞吐率：18.87req/s] [内存消耗：1,132.11kb] [文件加载：33]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200; bgColorSelectorPosition=37; menuid=5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\home\controller\Index::fetch()[D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php:8]
+---------------------------------------------------------------
+[ 2017-05-31T09:29:14+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.042003s][吞吐率：23.81req/s] [内存消耗：1,132.29kb] [文件加载：33]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200; bgColorSelectorPosition=37; menuid=5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\home\controller\Index::fetch()[D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php:8]
+---------------------------------------------------------------
+[ 2017-05-31T09:29:14+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.044003s][吞吐率：22.73req/s] [内存消耗：1,132.02kb] [文件加载：33]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200; bgColorSelectorPosition=37; menuid=5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\home\controller\Index::fetch()[D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php:8]
+---------------------------------------------------------------
+[ 2017-05-31T09:29:14+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.024001s][吞吐率：41.67req/s] [内存消耗：1,132.29kb] [文件加载：33]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200; bgColorSelectorPosition=37; menuid=5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\home\controller\Index::fetch()[D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php:8]
+---------------------------------------------------------------
+[ 2017-05-31T09:29:16+08:00 ] ::1 ::1 GET /YZNCMS/index.php
+[ info ] localhost/YZNCMS/index.php [运行时间：0.046800s][吞吐率：21.37req/s] [内存消耗：1,129.41kb] [文件加载：33]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'accept-encoding' => 'compress,gzip',
+  'connection' => 'Close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\home\controller\Index::fetch()[D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php:8]
+---------------------------------------------------------------
+[ 2017-05-31T09:29:41+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.041200s][吞吐率：24.27req/s] [内存消耗：1,132.34kb] [文件加载：33]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200; bgColorSelectorPosition=37; menuid=5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\home\controller\Index::display()[D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php:8]
+---------------------------------------------------------------
+[ 2017-05-31T09:30:39+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.055202s][吞吐率：18.12req/s] [内存消耗：1,132.33kb] [文件加载：33]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200; bgColorSelectorPosition=37; menuid=5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\home\controller\Index::display()[D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php:9]
+---------------------------------------------------------------
+[ 2017-05-31T09:32:28+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.058003s][吞吐率：17.24req/s] [内存消耗：1,377.99kb] [文件加载：36]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200; bgColorSelectorPosition=37; menuid=5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-31T09:35:43+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.061004s][吞吐率：16.39req/s] [内存消耗：1,377.75kb] [文件加载：36]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200; bgColorSelectorPosition=37; menuid=5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-31T09:35:43+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.065003s][吞吐率：15.38req/s] [内存消耗：1,377.75kb] [文件加载：36]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200; bgColorSelectorPosition=37; menuid=5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-31T09:35:44+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.067004s][吞吐率：14.92req/s] [内存消耗：1,377.75kb] [文件加载：36]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200; bgColorSelectorPosition=37; menuid=5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-31T09:35:44+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,377.75kb] [文件加载：36]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200; bgColorSelectorPosition=37; menuid=5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-31T09:35:48+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.025002s][吞吐率：40.00req/s] [内存消耗：1,377.70kb] [文件加载：36]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200; bgColorSelectorPosition=37; menuid=5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-31T09:35:49+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.038003s][吞吐率：26.31req/s] [内存消耗：1,377.70kb] [文件加载：36]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200; bgColorSelectorPosition=37; menuid=5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-31T09:35:56+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.045002s][吞吐率：22.22req/s] [内存消耗：1,398.75kb] [文件加载：38]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200; bgColorSelectorPosition=37; menuid=5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpStudy\WWW\YZNCMS/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpStudy\WWW\YZNCMS/apps/home\view\public\index_layout.html[D:\phpStudy\WWW\YZNCMS\thinkphp\library\think\Template.php:1086]
+---------------------------------------------------------------
+[ 2017-05-31T12:57:08+08:00 ] ::1 ::1 GET /YZNCMS/
+[ info ] localhost/YZNCMS/ [运行时间：0.071004s][吞吐率：14.08req/s] [内存消耗：1,398.52kb] [文件加载：38]
+[ info ] [ LANG ] D:\phpStudy\WWW\YZNCMS\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=lacm92eroijn9b2lvllb7p4gf5; pgv_pvi=5218214912; pgv_si=s5513779200; bgColorSelectorPosition=37; menuid=5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ D:\phpStudy\WWW\YZNCMS\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpStudy\WWW\YZNCMS/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpStudy\WWW\YZNCMS/apps/home\view\public\index_layout.html[D:\phpStudy\WWW\YZNCMS\thinkphp\library\think\Template.php:1086]
